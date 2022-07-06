@@ -84,7 +84,7 @@ body{
     color: #999797;
 }
 
-@media screen and (min-width: 650px){
+@media screen and (min-width: 750px){
     .first-cards{
         padding: 0px 40px;
     }
